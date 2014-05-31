@@ -1,0 +1,10 @@
+.DS_Store
+bin/
+doc/
+target/
+examples/
+.rust
+rusti.sh
+.travis.yml
+.symlink-info
+*.swp
